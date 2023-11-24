@@ -1,4 +1,4 @@
 # Datova_akademie_Engeto
-Projekt SQL ke kurzu Datové akademie
 
-Zkouška spojení
+Projekt SQL ke kurzu Datové akademie - komentář
+
